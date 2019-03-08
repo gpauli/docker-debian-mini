@@ -17,10 +17,6 @@ Debian based build system with docker and debootstrap installed
 * change the cacher variable in build.sh
 * run build.sh
 
-# Feature
-
-Debian 8 without systemd
-
 # License
 
 The project is licensed under the Apache 2 license. 
